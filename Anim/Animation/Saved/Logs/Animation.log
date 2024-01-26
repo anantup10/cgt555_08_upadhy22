@@ -1163,3 +1163,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.26-20.52.41:840][  1]LogAssetRegistry: AssetRegistryGather time 0.2232s: AssetDataDiscovery 0.0552s, AssetDataGather 0.1075s, StoreResults 0.0605s.
 [2024.01.26-20.52.41:871][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2024.01.26-20.52.41:899][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.01.26-20.54.37:672][258]LogDerivedDataCache: C:/Users/anant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.408 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6310 files in 8267 folders with total size 624 MiB.
+[2024.01.26-20.54.47:245][612]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.26-20.54.47:252][612]LogSlate: Window 'Content Browser' being destroyed
